@@ -1,0 +1,161 @@
+﻿TenantId,SourceSystem,TimeGenerated,ResourceId,OperationName,OperationVersion,Category,ResultType,ResultSignature,ResultDescription,DurationMs,CorrelationId,Resource,ResourceGroup,ResourceProvider,Identity,Level,Location,AlternateSignInName,AppDisplayName,AppId,AuthenticationDetails,AuthenticationMethodsUsed,AuthenticationProcessingDetails,AuthenticationRequirement,AuthenticationRequirementPolicies,ClientAppUsed,ConditionalAccessPolicies,ConditionalAccessStatus,CreatedDateTime,DeviceDetail,IsInteractive,Id,IPAddress,IsRisky,LocationDetails,MfaDetail,NetworkLocationDetails,OriginalRequestId,ProcessingTimeInMilliseconds,RiskDetail,RiskEventTypes,RiskEventTypes_V2,RiskLevelAggregated,RiskLevelDuringSignIn,RiskState,ResourceDisplayName,ResourceIdentity,ServicePrincipalId,ServicePrincipalName,Status,TokenIssuerName,TokenIssuerType,UserAgent,UserDisplayName,UserId,UserPrincipalName,AADTenantId,Type
+88ddc2a5-36fd-403a-ac48-8cf61c0aee88,Azure AD,2020-06-16T12:10:02.106Z,/tenants/f4d85fb4-e848-44aa-8432-5b238415909a/providers/Microsoft.aadiam,Sign-in activity,1,SignInLogs,50126,None,Invalid username or password or Invalid on-premise username or password.,0,20e71f21-2a5b-4094-8cb1-f8c9ad876fed,Microsoft.aadiam,Microsoft.aadiam,,dummy1,4,NL,dummy1@utnjj.onmicrosoft.com,Azure Portal,c44b4083-3bb0-49c1-b47d-974e53cbdf3c,"[
+  {
+    ""authenticationStepDateTime"": ""2020-06-16T12:10:02.106917+00:00"",
+    ""authenticationMethod"": ""CloudOnlyPassword"",
+    ""authenticationMethodDetail"": """",
+    ""succeeded"": false,
+    ""authenticationStepResultDetail"": ""Invalid username or password or Invalid on-premise username or password."",
+    ""authenticationStepRequirement"": ""Primary Authentication""
+  }
+]",,[],singleFactorAuthentication,[],Browser,[],notApplied,2020-06-16T12:10:02Z,"{""operatingSystem"":""Windows 10"",""deviceId"":"""",""browser"":""Chrome 83.0.4103""}",TRUE,a5bde69d-b6ce-4a65-9427-8e1b8d038900,130.89.160.249,null,"{""countryOrRegion"":""NL"",""geoCoordinates"":{""longitude"":6.900370121002197,""latitude"":52.22031021118164},""state"":""Overijssel"",""city"":""Enschede""}",null,[],a5bde69d-b6ce-4a65-9427-8e1b8d038900,1098,none,[],[],none,none,none,Windows Azure Service Management API,797f4846-ba00-4fd7-ba43-dac1f8f63013,,,"{""errorCode"":50126,""failureReason"":""Invalid username or password or Invalid on-premise username or password.""}",,AzureAD,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36",dummy1,f523566a-846a-42d3-aa66-de7d59933189,dummy1@utnjj.onmicrosoft.com,f4d85fb4-e848-44aa-8432-5b238415909a,SigninLogs
+88ddc2a5-36fd-403a-ac48-8cf61c0aee88,Azure AD,2020-06-16T12:10:16.782Z,/tenants/f4d85fb4-e848-44aa-8432-5b238415909a/providers/Microsoft.aadiam,Sign-in activity,1,SignInLogs,50126,None,Invalid username or password or Invalid on-premise username or password.,0,20e71f21-2a5b-4094-8cb1-f8c9ad876fed,Microsoft.aadiam,Microsoft.aadiam,,dummy2,4,NL,dummy2@utnjj.onmicrosoft.com,Azure Portal,c44b4083-3bb0-49c1-b47d-974e53cbdf3c,"[
+  {
+    ""authenticationStepDateTime"": ""2020-06-16T12:10:16.7829447+00:00"",
+    ""authenticationMethod"": ""CloudOnlyPassword"",
+    ""authenticationMethodDetail"": """",
+    ""succeeded"": false,
+    ""authenticationStepResultDetail"": ""Invalid username or password or Invalid on-premise username or password."",
+    ""authenticationStepRequirement"": ""Primary Authentication""
+  }
+]",,[],,[],Browser,[],notApplied,2020-06-16T12:10:16Z,"{""operatingSystem"":""Windows 10"",""deviceId"":"""",""browser"":""Chrome 83.0.4103""}",TRUE,1725678d-620d-4e42-97da-ab03d5572401,130.89.160.249,null,"{""countryOrRegion"":""NL"",""geoCoordinates"":{""longitude"":6.900370121002197,""latitude"":52.22031021118164},""state"":""Overijssel"",""city"":""Enschede""}",null,[],1725678d-620d-4e42-97da-ab03d5572401,1243,none,[],,none,none,none,Windows Azure Service Management API,797f4846-ba00-4fd7-ba43-dac1f8f63013,,,"{""errorCode"":50126,""failureReason"":""Invalid username or password or Invalid on-premise username or password.""}",,AzureAD,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36",dummy2,5d13f458-29a3-4743-a52a-e9d1a0fffbed,dummy2@utnjj.onmicrosoft.com,f4d85fb4-e848-44aa-8432-5b238415909a,SigninLogs
+88ddc2a5-36fd-403a-ac48-8cf61c0aee88,Azure AD,2020-06-16T12:10:16.782Z,/tenants/f4d85fb4-e848-44aa-8432-5b238415909a/providers/Microsoft.aadiam,Sign-in activity,1,SignInLogs,50126,None,Invalid username or password or Invalid on-premise username or password.,0,20e71f21-2a5b-4094-8cb1-f8c9ad876fed,Microsoft.aadiam,Microsoft.aadiam,,dummy2,4,NL,dummy2@utnjj.onmicrosoft.com,Azure Portal,c44b4083-3bb0-49c1-b47d-974e53cbdf3c,"[
+  {
+    ""authenticationStepDateTime"": ""2020-06-16T12:10:16.7829447+00:00"",
+    ""authenticationMethod"": ""CloudOnlyPassword"",
+    ""authenticationMethodDetail"": """",
+    ""succeeded"": false,
+    ""authenticationStepResultDetail"": ""Invalid username or password or Invalid on-premise username or password."",
+    ""authenticationStepRequirement"": ""Primary Authentication""
+  }
+]",,[],singleFactorAuthentication,[],Browser,[],notApplied,2020-06-16T12:10:16Z,"{""operatingSystem"":""Windows 10"",""deviceId"":"""",""browser"":""Chrome 83.0.4103""}",TRUE,1725678d-620d-4e42-97da-ab03d5572401,130.89.160.249,null,"{""countryOrRegion"":""NL"",""geoCoordinates"":{""longitude"":6.900370121002197,""latitude"":52.22031021118164},""state"":""Overijssel"",""city"":""Enschede""}",null,[],1725678d-620d-4e42-97da-ab03d5572401,1243,none,[],[],none,none,none,Windows Azure Service Management API,797f4846-ba00-4fd7-ba43-dac1f8f63013,,,"{""errorCode"":50126,""failureReason"":""Invalid username or password or Invalid on-premise username or password.""}",,AzureAD,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36",dummy2,5d13f458-29a3-4743-a52a-e9d1a0fffbed,dummy2@utnjj.onmicrosoft.com,f4d85fb4-e848-44aa-8432-5b238415909a,SigninLogs
+88ddc2a5-36fd-403a-ac48-8cf61c0aee88,Azure AD,2020-06-16T12:10:30.265Z,/tenants/f4d85fb4-e848-44aa-8432-5b238415909a/providers/Microsoft.aadiam,Sign-in activity,1,SignInLogs,50126,None,Invalid username or password or Invalid on-premise username or password.,0,20e71f21-2a5b-4094-8cb1-f8c9ad876fed,Microsoft.aadiam,Microsoft.aadiam,,dummy3,4,NL,dummy3@utnjj.onmicrosoft.com,Azure Portal,c44b4083-3bb0-49c1-b47d-974e53cbdf3c,"[
+  {
+    ""authenticationStepDateTime"": ""2020-06-16T12:10:30.2657964+00:00"",
+    ""authenticationMethod"": ""CloudOnlyPassword"",
+    ""authenticationMethodDetail"": """",
+    ""succeeded"": false,
+    ""authenticationStepResultDetail"": ""Invalid username or password or Invalid on-premise username or password."",
+    ""authenticationStepRequirement"": ""Primary Authentication""
+  }
+]",,[],,[],Browser,[],notApplied,2020-06-16T12:10:30Z,"{""operatingSystem"":""Windows 10"",""deviceId"":"""",""browser"":""Chrome 83.0.4103""}",TRUE,025b514d-5272-4683-a5aa-cf089d898100,130.89.160.249,null,"{""countryOrRegion"":""NL"",""geoCoordinates"":{""longitude"":6.900370121002197,""latitude"":52.22031021118164},""state"":""Overijssel"",""city"":""Enschede""}",null,[],025b514d-5272-4683-a5aa-cf089d898100,1416,none,[],,none,none,none,Windows Azure Service Management API,797f4846-ba00-4fd7-ba43-dac1f8f63013,,,"{""errorCode"":50126,""failureReason"":""Invalid username or password or Invalid on-premise username or password.""}",,AzureAD,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36",dummy3,137e9c4a-7b75-420a-b503-752ca2eaadcb,dummy3@utnjj.onmicrosoft.com,f4d85fb4-e848-44aa-8432-5b238415909a,SigninLogs
+88ddc2a5-36fd-403a-ac48-8cf61c0aee88,Azure AD,2020-06-16T12:10:30.265Z,/tenants/f4d85fb4-e848-44aa-8432-5b238415909a/providers/Microsoft.aadiam,Sign-in activity,1,SignInLogs,50126,None,Invalid username or password or Invalid on-premise username or password.,0,20e71f21-2a5b-4094-8cb1-f8c9ad876fed,Microsoft.aadiam,Microsoft.aadiam,,dummy3,4,NL,dummy3@utnjj.onmicrosoft.com,Azure Portal,c44b4083-3bb0-49c1-b47d-974e53cbdf3c,"[
+  {
+    ""authenticationStepDateTime"": ""2020-06-16T12:10:30.2657964+00:00"",
+    ""authenticationMethod"": ""CloudOnlyPassword"",
+    ""authenticationMethodDetail"": """",
+    ""succeeded"": false,
+    ""authenticationStepResultDetail"": ""Invalid username or password or Invalid on-premise username or password."",
+    ""authenticationStepRequirement"": ""Primary Authentication""
+  }
+]",,[],singleFactorAuthentication,[],Browser,[],notApplied,2020-06-16T12:10:30Z,"{""operatingSystem"":""Windows 10"",""deviceId"":"""",""browser"":""Chrome 83.0.4103""}",TRUE,025b514d-5272-4683-a5aa-cf089d898100,130.89.160.249,null,"{""countryOrRegion"":""NL"",""geoCoordinates"":{""longitude"":6.900370121002197,""latitude"":52.22031021118164},""state"":""Overijssel"",""city"":""Enschede""}",null,[],025b514d-5272-4683-a5aa-cf089d898100,1416,none,[],[],none,none,none,Windows Azure Service Management API,797f4846-ba00-4fd7-ba43-dac1f8f63013,,,"{""errorCode"":50126,""failureReason"":""Invalid username or password or Invalid on-premise username or password.""}",,AzureAD,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36",dummy3,137e9c4a-7b75-420a-b503-752ca2eaadcb,dummy3@utnjj.onmicrosoft.com,f4d85fb4-e848-44aa-8432-5b238415909a,SigninLogs
+88ddc2a5-36fd-403a-ac48-8cf61c0aee88,Azure AD,2020-06-16T12:10:42.135Z,/tenants/f4d85fb4-e848-44aa-8432-5b238415909a/providers/Microsoft.aadiam,Sign-in activity,1,SignInLogs,50126,None,Invalid username or password or Invalid on-premise username or password.,0,20e71f21-2a5b-4094-8cb1-f8c9ad876fed,Microsoft.aadiam,Microsoft.aadiam,,dummy4,4,NL,dummy4@utnjj.onmicrosoft.com,Azure Portal,c44b4083-3bb0-49c1-b47d-974e53cbdf3c,"[
+  {
+    ""authenticationStepDateTime"": ""2020-06-16T12:10:42.1351121+00:00"",
+    ""authenticationMethod"": ""CloudOnlyPassword"",
+    ""authenticationMethodDetail"": """",
+    ""succeeded"": false,
+    ""authenticationStepResultDetail"": ""Invalid username or password or Invalid on-premise username or password."",
+    ""authenticationStepRequirement"": ""Primary Authentication""
+  }
+]",,[],singleFactorAuthentication,[],Browser,[],notApplied,2020-06-16T12:10:42Z,"{""operatingSystem"":""Windows 10"",""deviceId"":"""",""browser"":""Chrome 83.0.4103""}",TRUE,780ff91c-a90d-43fc-8d6c-5274127c8700,130.89.160.249,null,"{""countryOrRegion"":""NL"",""geoCoordinates"":{""longitude"":6.900370121002197,""latitude"":52.22031021118164},""state"":""Overijssel"",""city"":""Enschede""}",null,[],780ff91c-a90d-43fc-8d6c-5274127c8700,1019,none,[],[],none,none,none,Windows Azure Service Management API,797f4846-ba00-4fd7-ba43-dac1f8f63013,,,"{""errorCode"":50126,""failureReason"":""Invalid username or password or Invalid on-premise username or password.""}",,AzureAD,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36",dummy4,45d79255-cea0-4faf-8c2c-a50175fe244b,dummy4@utnjj.onmicrosoft.com,f4d85fb4-e848-44aa-8432-5b238415909a,SigninLogs
+88ddc2a5-36fd-403a-ac48-8cf61c0aee88,Azure AD,2020-06-16T12:10:42.135Z,/tenants/f4d85fb4-e848-44aa-8432-5b238415909a/providers/Microsoft.aadiam,Sign-in activity,1,SignInLogs,50126,None,Invalid username or password or Invalid on-premise username or password.,0,20e71f21-2a5b-4094-8cb1-f8c9ad876fed,Microsoft.aadiam,Microsoft.aadiam,,dummy4,4,NL,dummy4@utnjj.onmicrosoft.com,Azure Portal,c44b4083-3bb0-49c1-b47d-974e53cbdf3c,"[
+  {
+    ""authenticationStepDateTime"": ""2020-06-16T12:10:42.1351121+00:00"",
+    ""authenticationMethod"": ""CloudOnlyPassword"",
+    ""authenticationMethodDetail"": """",
+    ""succeeded"": false,
+    ""authenticationStepResultDetail"": ""Invalid username or password or Invalid on-premise username or password."",
+    ""authenticationStepRequirement"": ""Primary Authentication""
+  }
+]",,[],,[],Browser,[],notApplied,2020-06-16T12:10:42Z,"{""operatingSystem"":""Windows 10"",""deviceId"":"""",""browser"":""Chrome 83.0.4103""}",TRUE,780ff91c-a90d-43fc-8d6c-5274127c8700,130.89.160.249,null,"{""countryOrRegion"":""NL"",""geoCoordinates"":{""longitude"":6.900370121002197,""latitude"":52.22031021118164},""state"":""Overijssel"",""city"":""Enschede""}",null,[],780ff91c-a90d-43fc-8d6c-5274127c8700,1019,none,[],,none,none,none,Windows Azure Service Management API,797f4846-ba00-4fd7-ba43-dac1f8f63013,,,"{""errorCode"":50126,""failureReason"":""Invalid username or password or Invalid on-premise username or password.""}",,AzureAD,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36",dummy4,45d79255-cea0-4faf-8c2c-a50175fe244b,dummy4@utnjj.onmicrosoft.com,f4d85fb4-e848-44aa-8432-5b238415909a,SigninLogs
+88ddc2a5-36fd-403a-ac48-8cf61c0aee88,Azure AD,2020-06-16T12:10:54.808Z,/tenants/f4d85fb4-e848-44aa-8432-5b238415909a/providers/Microsoft.aadiam,Sign-in activity,1,SignInLogs,50126,None,Invalid username or password or Invalid on-premise username or password.,0,20e71f21-2a5b-4094-8cb1-f8c9ad876fed,Microsoft.aadiam,Microsoft.aadiam,,dummy5,4,NL,dummy5@utnjj.onmicrosoft.com,Azure Portal,c44b4083-3bb0-49c1-b47d-974e53cbdf3c,"[
+  {
+    ""authenticationStepDateTime"": ""2020-06-16T12:10:54.8083054+00:00"",
+    ""authenticationMethod"": ""CloudOnlyPassword"",
+    ""authenticationMethodDetail"": """",
+    ""succeeded"": false,
+    ""authenticationStepResultDetail"": ""Invalid username or password or Invalid on-premise username or password."",
+    ""authenticationStepRequirement"": ""Primary Authentication""
+  }
+]",,[],singleFactorAuthentication,[],Browser,[],notApplied,2020-06-16T12:10:54Z,"{""operatingSystem"":""Windows 10"",""deviceId"":"""",""browser"":""Chrome 83.0.4103""}",TRUE,3a227ac6-b9f6-4785-85aa-29eb570b2701,130.89.160.249,null,"{""countryOrRegion"":""NL"",""geoCoordinates"":{""longitude"":6.900370121002197,""latitude"":52.22031021118164},""state"":""Overijssel"",""city"":""Enschede""}",null,[],3a227ac6-b9f6-4785-85aa-29eb570b2701,951,none,[],[],none,none,none,Windows Azure Service Management API,797f4846-ba00-4fd7-ba43-dac1f8f63013,,,"{""errorCode"":50126,""failureReason"":""Invalid username or password or Invalid on-premise username or password.""}",,AzureAD,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36",dummy5,d6444e61-8e6f-4ce7-b56a-fbccf0bedfe8,dummy5@utnjj.onmicrosoft.com,f4d85fb4-e848-44aa-8432-5b238415909a,SigninLogs
+88ddc2a5-36fd-403a-ac48-8cf61c0aee88,Azure AD,2020-06-16T12:11:06.493Z,/tenants/f4d85fb4-e848-44aa-8432-5b238415909a/providers/Microsoft.aadiam,Sign-in activity,1,SignInLogs,50126,None,Invalid username or password or Invalid on-premise username or password.,0,20e71f21-2a5b-4094-8cb1-f8c9ad876fed,Microsoft.aadiam,Microsoft.aadiam,,dummy6,4,NL,dummy6@utnjj.onmicrosoft.com,Azure Portal,c44b4083-3bb0-49c1-b47d-974e53cbdf3c,"[
+  {
+    ""authenticationStepDateTime"": ""2020-06-16T12:11:06.4930765+00:00"",
+    ""authenticationMethod"": ""CloudOnlyPassword"",
+    ""authenticationMethodDetail"": """",
+    ""succeeded"": false,
+    ""authenticationStepResultDetail"": ""Invalid username or password or Invalid on-premise username or password."",
+    ""authenticationStepRequirement"": ""Primary Authentication""
+  }
+]",,[],singleFactorAuthentication,[],Browser,[],notApplied,2020-06-16T12:11:06Z,"{""operatingSystem"":""Windows 10"",""deviceId"":"""",""browser"":""Chrome 83.0.4103""}",TRUE,bd9a8012-dc85-4891-b746-b94d4be18600,130.89.160.249,null,"{""countryOrRegion"":""NL"",""geoCoordinates"":{""longitude"":6.900370121002197,""latitude"":52.22031021118164},""state"":""Overijssel"",""city"":""Enschede""}",null,[],bd9a8012-dc85-4891-b746-b94d4be18600,1042,none,[],[],none,none,none,Windows Azure Service Management API,797f4846-ba00-4fd7-ba43-dac1f8f63013,,,"{""errorCode"":50126,""failureReason"":""Invalid username or password or Invalid on-premise username or password.""}",,AzureAD,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36",dummy6,50855cff-af8d-4df6-955e-acadc36fc4fc,dummy6@utnjj.onmicrosoft.com,f4d85fb4-e848-44aa-8432-5b238415909a,SigninLogs
+88ddc2a5-36fd-403a-ac48-8cf61c0aee88,Azure AD,2020-06-16T12:11:06.493Z,/tenants/f4d85fb4-e848-44aa-8432-5b238415909a/providers/Microsoft.aadiam,Sign-in activity,1,SignInLogs,50126,None,Invalid username or password or Invalid on-premise username or password.,0,20e71f21-2a5b-4094-8cb1-f8c9ad876fed,Microsoft.aadiam,Microsoft.aadiam,,dummy6,4,NL,dummy6@utnjj.onmicrosoft.com,Azure Portal,c44b4083-3bb0-49c1-b47d-974e53cbdf3c,"[
+  {
+    ""authenticationStepDateTime"": ""2020-06-16T12:11:06.4930765+00:00"",
+    ""authenticationMethod"": ""CloudOnlyPassword"",
+    ""authenticationMethodDetail"": """",
+    ""succeeded"": false,
+    ""authenticationStepResultDetail"": ""Invalid username or password or Invalid on-premise username or password."",
+    ""authenticationStepRequirement"": ""Primary Authentication""
+  }
+]",,[],,[],Browser,[],notApplied,2020-06-16T12:11:06Z,"{""operatingSystem"":""Windows 10"",""deviceId"":"""",""browser"":""Chrome 83.0.4103""}",TRUE,bd9a8012-dc85-4891-b746-b94d4be18600,130.89.160.249,null,"{""countryOrRegion"":""NL"",""geoCoordinates"":{""longitude"":6.900370121002197,""latitude"":52.22031021118164},""state"":""Overijssel"",""city"":""Enschede""}",null,[],bd9a8012-dc85-4891-b746-b94d4be18600,1042,none,[],,none,none,none,Windows Azure Service Management API,797f4846-ba00-4fd7-ba43-dac1f8f63013,,,"{""errorCode"":50126,""failureReason"":""Invalid username or password or Invalid on-premise username or password.""}",,AzureAD,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36",dummy6,50855cff-af8d-4df6-955e-acadc36fc4fc,dummy6@utnjj.onmicrosoft.com,f4d85fb4-e848-44aa-8432-5b238415909a,SigninLogs
+88ddc2a5-36fd-403a-ac48-8cf61c0aee88,Azure AD,2020-06-16T12:11:18.679Z,/tenants/f4d85fb4-e848-44aa-8432-5b238415909a/providers/Microsoft.aadiam,Sign-in activity,1,SignInLogs,50126,None,Invalid username or password or Invalid on-premise username or password.,0,20e71f21-2a5b-4094-8cb1-f8c9ad876fed,Microsoft.aadiam,Microsoft.aadiam,,dummy7,4,NL,dummy7@utnjj.onmicrosoft.com,Azure Portal,c44b4083-3bb0-49c1-b47d-974e53cbdf3c,"[
+  {
+    ""authenticationStepDateTime"": ""2020-06-16T12:11:18.6793098+00:00"",
+    ""authenticationMethod"": ""CloudOnlyPassword"",
+    ""authenticationMethodDetail"": """",
+    ""succeeded"": false,
+    ""authenticationStepResultDetail"": ""Invalid username or password or Invalid on-premise username or password."",
+    ""authenticationStepRequirement"": ""Primary Authentication""
+  }
+]",,[],singleFactorAuthentication,[],Browser,[],notApplied,2020-06-16T12:11:18Z,"{""operatingSystem"":""Windows 10"",""deviceId"":"""",""browser"":""Chrome 83.0.4103""}",TRUE,2cc12aa9-8d84-4acc-9b91-94f7644c8600,130.89.160.249,null,"{""countryOrRegion"":""NL"",""geoCoordinates"":{""longitude"":6.900370121002197,""latitude"":52.22031021118164},""state"":""Overijssel"",""city"":""Enschede""}",null,[],2cc12aa9-8d84-4acc-9b91-94f7644c8600,1546,none,[],[],none,none,none,Windows Azure Service Management API,797f4846-ba00-4fd7-ba43-dac1f8f63013,,,"{""errorCode"":50126,""failureReason"":""Invalid username or password or Invalid on-premise username or password.""}",,AzureAD,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36",dummy7,0e443e28-10f0-466b-a567-57c55b705a5c,dummy7@utnjj.onmicrosoft.com,f4d85fb4-e848-44aa-8432-5b238415909a,SigninLogs
+88ddc2a5-36fd-403a-ac48-8cf61c0aee88,Azure AD,2020-06-16T12:11:30.691Z,/tenants/f4d85fb4-e848-44aa-8432-5b238415909a/providers/Microsoft.aadiam,Sign-in activity,1,SignInLogs,50126,None,Invalid username or password or Invalid on-premise username or password.,0,20e71f21-2a5b-4094-8cb1-f8c9ad876fed,Microsoft.aadiam,Microsoft.aadiam,,dummy8,4,NL,dummy8@utnjj.onmicrosoft.com,Azure Portal,c44b4083-3bb0-49c1-b47d-974e53cbdf3c,"[
+  {
+    ""authenticationStepDateTime"": ""2020-06-16T12:11:30.6919201+00:00"",
+    ""authenticationMethod"": ""CloudOnlyPassword"",
+    ""authenticationMethodDetail"": """",
+    ""succeeded"": false,
+    ""authenticationStepResultDetail"": ""Invalid username or password or Invalid on-premise username or password."",
+    ""authenticationStepRequirement"": ""Primary Authentication""
+  }
+]",,[],singleFactorAuthentication,[],Browser,[],notApplied,2020-06-16T12:11:30Z,"{""operatingSystem"":""Windows 10"",""deviceId"":"""",""browser"":""Chrome 83.0.4103""}",TRUE,5e579fe2-ff03-49db-a271-aee2d7828500,130.89.160.249,null,"{""countryOrRegion"":""NL"",""geoCoordinates"":{""longitude"":6.900370121002197,""latitude"":52.22031021118164},""state"":""Overijssel"",""city"":""Enschede""}",null,[],5e579fe2-ff03-49db-a271-aee2d7828500,1356,none,[],[],none,none,none,Windows Azure Service Management API,797f4846-ba00-4fd7-ba43-dac1f8f63013,,,"{""errorCode"":50126,""failureReason"":""Invalid username or password or Invalid on-premise username or password.""}",,AzureAD,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36",dummy8,790bba7c-936d-49db-afdd-72587929c08b,dummy8@utnjj.onmicrosoft.com,f4d85fb4-e848-44aa-8432-5b238415909a,SigninLogs
+88ddc2a5-36fd-403a-ac48-8cf61c0aee88,Azure AD,2020-06-16T12:11:30.691Z,/tenants/f4d85fb4-e848-44aa-8432-5b238415909a/providers/Microsoft.aadiam,Sign-in activity,1,SignInLogs,50126,None,Invalid username or password or Invalid on-premise username or password.,0,20e71f21-2a5b-4094-8cb1-f8c9ad876fed,Microsoft.aadiam,Microsoft.aadiam,,dummy8,4,NL,dummy8@utnjj.onmicrosoft.com,Azure Portal,c44b4083-3bb0-49c1-b47d-974e53cbdf3c,"[
+  {
+    ""authenticationStepDateTime"": ""2020-06-16T12:11:30.6919201+00:00"",
+    ""authenticationMethod"": ""CloudOnlyPassword"",
+    ""authenticationMethodDetail"": """",
+    ""succeeded"": false,
+    ""authenticationStepResultDetail"": ""Invalid username or password or Invalid on-premise username or password."",
+    ""authenticationStepRequirement"": ""Primary Authentication""
+  }
+]",,[],,[],Browser,[],notApplied,2020-06-16T12:11:30Z,"{""operatingSystem"":""Windows 10"",""deviceId"":"""",""browser"":""Chrome 83.0.4103""}",TRUE,5e579fe2-ff03-49db-a271-aee2d7828500,130.89.160.249,null,"{""countryOrRegion"":""NL"",""geoCoordinates"":{""longitude"":6.900370121002197,""latitude"":52.22031021118164},""state"":""Overijssel"",""city"":""Enschede""}",null,[],5e579fe2-ff03-49db-a271-aee2d7828500,1356,none,[],,none,none,none,Windows Azure Service Management API,797f4846-ba00-4fd7-ba43-dac1f8f63013,,,"{""errorCode"":50126,""failureReason"":""Invalid username or password or Invalid on-premise username or password.""}",,AzureAD,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36",dummy8,790bba7c-936d-49db-afdd-72587929c08b,dummy8@utnjj.onmicrosoft.com,f4d85fb4-e848-44aa-8432-5b238415909a,SigninLogs
+88ddc2a5-36fd-403a-ac48-8cf61c0aee88,Azure AD,2020-06-16T12:11:42.954Z,/tenants/f4d85fb4-e848-44aa-8432-5b238415909a/providers/Microsoft.aadiam,Sign-in activity,1,SignInLogs,50126,None,Invalid username or password or Invalid on-premise username or password.,0,20e71f21-2a5b-4094-8cb1-f8c9ad876fed,Microsoft.aadiam,Microsoft.aadiam,,dummy9,4,NL,dummy9@utnjj.onmicrosoft.com,Azure Portal,c44b4083-3bb0-49c1-b47d-974e53cbdf3c,"[
+  {
+    ""authenticationStepDateTime"": ""2020-06-16T12:11:42.9540186+00:00"",
+    ""authenticationMethod"": ""CloudOnlyPassword"",
+    ""authenticationMethodDetail"": """",
+    ""succeeded"": false,
+    ""authenticationStepResultDetail"": ""Invalid username or password or Invalid on-premise username or password."",
+    ""authenticationStepRequirement"": ""Primary Authentication""
+  }
+]",,[],,[],Browser,[],notApplied,2020-06-16T12:11:42Z,"{""operatingSystem"":""Windows 10"",""deviceId"":"""",""browser"":""Chrome 83.0.4103""}",TRUE,dba18917-d8ae-4e3f-8f08-e6dc87940e00,130.89.160.249,null,"{""countryOrRegion"":""NL"",""geoCoordinates"":{""longitude"":6.900370121002197,""latitude"":52.22031021118164},""state"":""Overijssel"",""city"":""Enschede""}",null,[],dba18917-d8ae-4e3f-8f08-e6dc87940e00,1172,none,[],,none,none,none,Windows Azure Service Management API,797f4846-ba00-4fd7-ba43-dac1f8f63013,,,"{""errorCode"":50126,""failureReason"":""Invalid username or password or Invalid on-premise username or password.""}",,AzureAD,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36",dummy9,b16e6440-96f7-4746-a541-194f227ac3a1,dummy9@utnjj.onmicrosoft.com,f4d85fb4-e848-44aa-8432-5b238415909a,SigninLogs
+88ddc2a5-36fd-403a-ac48-8cf61c0aee88,Azure AD,2020-06-16T12:11:42.954Z,/tenants/f4d85fb4-e848-44aa-8432-5b238415909a/providers/Microsoft.aadiam,Sign-in activity,1,SignInLogs,50126,None,Invalid username or password or Invalid on-premise username or password.,0,20e71f21-2a5b-4094-8cb1-f8c9ad876fed,Microsoft.aadiam,Microsoft.aadiam,,dummy9,4,NL,dummy9@utnjj.onmicrosoft.com,Azure Portal,c44b4083-3bb0-49c1-b47d-974e53cbdf3c,"[
+  {
+    ""authenticationStepDateTime"": ""2020-06-16T12:11:42.9540186+00:00"",
+    ""authenticationMethod"": ""CloudOnlyPassword"",
+    ""authenticationMethodDetail"": """",
+    ""succeeded"": false,
+    ""authenticationStepResultDetail"": ""Invalid username or password or Invalid on-premise username or password."",
+    ""authenticationStepRequirement"": ""Primary Authentication""
+  }
+]",,[],singleFactorAuthentication,[],Browser,[],notApplied,2020-06-16T12:11:42Z,"{""operatingSystem"":""Windows 10"",""deviceId"":"""",""browser"":""Chrome 83.0.4103""}",TRUE,dba18917-d8ae-4e3f-8f08-e6dc87940e00,130.89.160.249,null,"{""countryOrRegion"":""NL"",""geoCoordinates"":{""longitude"":6.900370121002197,""latitude"":52.22031021118164},""state"":""Overijssel"",""city"":""Enschede""}",null,[],dba18917-d8ae-4e3f-8f08-e6dc87940e00,1172,none,[],[],none,none,none,Windows Azure Service Management API,797f4846-ba00-4fd7-ba43-dac1f8f63013,,,"{""errorCode"":50126,""failureReason"":""Invalid username or password or Invalid on-premise username or password.""}",,AzureAD,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36",dummy9,b16e6440-96f7-4746-a541-194f227ac3a1,dummy9@utnjj.onmicrosoft.com,f4d85fb4-e848-44aa-8432-5b238415909a,SigninLogs
+88ddc2a5-36fd-403a-ac48-8cf61c0aee88,Azure AD,2020-06-16T12:11:54.772Z,/tenants/f4d85fb4-e848-44aa-8432-5b238415909a/providers/Microsoft.aadiam,Sign-in activity,1,SignInLogs,50126,None,Invalid username or password or Invalid on-premise username or password.,0,20e71f21-2a5b-4094-8cb1-f8c9ad876fed,Microsoft.aadiam,Microsoft.aadiam,,dummy10,4,NL,dummy10@utnjj.onmicrosoft.com,Azure Portal,c44b4083-3bb0-49c1-b47d-974e53cbdf3c,"[
+  {
+    ""authenticationStepDateTime"": ""2020-06-16T12:11:54.7725488+00:00"",
+    ""authenticationMethod"": ""CloudOnlyPassword"",
+    ""authenticationMethodDetail"": """",
+    ""succeeded"": false,
+    ""authenticationStepResultDetail"": ""Invalid username or password or Invalid on-premise username or password."",
+    ""authenticationStepRequirement"": ""Primary Authentication""
+  }
+]",,[],singleFactorAuthentication,[],Browser,[],notApplied,2020-06-16T12:11:54Z,"{""operatingSystem"":""Windows 10"",""deviceId"":"""",""browser"":""Chrome 83.0.4103""}",TRUE,aea99cb9-aeff-4a71-8424-29e139ed8500,130.89.160.249,null,"{""countryOrRegion"":""NL"",""geoCoordinates"":{""longitude"":6.900370121002197,""latitude"":52.22031021118164},""state"":""Overijssel"",""city"":""Enschede""}",null,[],aea99cb9-aeff-4a71-8424-29e139ed8500,1132,none,[],[],none,none,none,Windows Azure Service Management API,797f4846-ba00-4fd7-ba43-dac1f8f63013,,,"{""errorCode"":50126,""failureReason"":""Invalid username or password or Invalid on-premise username or password.""}",,AzureAD,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36",dummy10,ee99a36f-4d61-493f-8e8e-58188d20bd94,dummy10@utnjj.onmicrosoft.com,f4d85fb4-e848-44aa-8432-5b238415909a,SigninLogs
